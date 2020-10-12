@@ -1,0 +1,20 @@
+Controllers 
+	repController
+	mouse
+Filters 
+	uppercase
+	date
+Ngrepeat 
+	schedule
+Factory 
+	time allotment
+Custom Services 
+	email validation
+Custom Directives
+	contact informations
+Built-in Directives
+	ng-modal, mg-controllers
+Events
+	mouse over and on paste, ng-blur, ng-keyup
+Inheritance
+	transform name and email data from repController to mouse
